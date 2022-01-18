@@ -1,7 +1,8 @@
 import React from "react";
+import Login from "./components/Login";
 
 export const App = () => {
-  return <div className="app">React</div>;
+  return <Login />;
 };
 
 export default App;
